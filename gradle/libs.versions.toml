@@ -9,7 +9,7 @@ espressoCore = "3.6.1"
 kotlinxSerializationJson = "1.6.3"
 lifecycleRuntimeKtx = "2.8.7"
 activityCompose = "1.9.3"
-composeBom = "2024.10.01"
+composeBom = "2024.11.00"
 okhttp = "4.12.0"
 retrofit2KotlinxSerializationConverter = "1.0.0"
 
